@@ -8,7 +8,7 @@
   <artifactId>fbseleniumtest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>addressbook-test</name>
+  <name>fbseleniumtest</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -92,7 +92,7 @@
 	      <configuration>
 	        <archive>
 	          <manifest>
-	            <mainClass>com.assignment.fbseleniumtest</mainClass>
+	            <mainClass>com.assignment.fbseleniumtest.App</mainClass>
 	          </manifest>
 	        </archive>
 	        <descriptorRefs>
