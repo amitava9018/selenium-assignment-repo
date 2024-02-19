@@ -33,7 +33,7 @@ public class App
     	  System.out.println("FB Site opened");
 	    
     	  //enable wait of 3 seconds 
-    	  driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
+    	  //driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
     	  
     	  //Locate user name and enter details.
     	  driver.findElement(By.id("email")).sendKeys("test123@email.com");
