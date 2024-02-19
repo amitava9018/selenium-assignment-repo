@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.assignment.fbseleniumtest</groupId>
-  <artifactId>fbseleniumtest</artifactId>
+  <artifactId>fbseleniumtest-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>fbseleniumtest</name>
+  <name>fbseleniumtest-application</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
